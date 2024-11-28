@@ -19,3 +19,7 @@ pip install -r requirements.txt
 cd bike-sharing/dashboard/
 streamlit run dashboard.py
 ```# proyek_analisis_data
+
+## Deployed Dashboard Bike Sharing App
+link :
+https://bike-sharing-luqmanh.streamlit.app/
